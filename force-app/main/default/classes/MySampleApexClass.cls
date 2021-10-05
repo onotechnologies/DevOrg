@@ -7,7 +7,9 @@ public class MySampleApexClass {       //Class definition and body
    // do some calculation
       myValue = myValue+10;
       // Second commit 
-      //Third commit      
+      //Third commit  
+      //Forth commit  
+
       return myValue;
    }
 }
